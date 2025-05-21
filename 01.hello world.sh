@@ -1,1 +1,2 @@
-this is a sample file 
+#!bin/bash 
+echo "Hello I am learning Devops"
